@@ -1,0 +1,6 @@
+D:\CC Projects\C#\SortString\SortString\obj\Debug\SortString.csprojResolveAssemblyReference.cache
+D:\CC Projects\C#\SortString\SortString\bin\Debug\SortString.exe.config
+D:\CC Projects\C#\SortString\SortString\bin\Debug\SortString.exe
+D:\CC Projects\C#\SortString\SortString\bin\Debug\SortString.pdb
+D:\CC Projects\C#\SortString\SortString\obj\Debug\SortString.exe
+D:\CC Projects\C#\SortString\SortString\obj\Debug\SortString.pdb
